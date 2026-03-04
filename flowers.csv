@@ -1,0 +1,8 @@
+"LabelValue","Name","Color_R","Color_G","Color_B","Color_A","Category_CodingScheme","Category_CodeValue","Category_CodeMeaning","Type_CodingScheme","Type_CodeValue","Type_CodeMeaning","TypeModifier_CodingScheme","TypeModifier_CodeValue","TypeModifier_CodeMeaning","Region_CodingScheme","Region_CodeValue","Region_CodeMeaning","RegionModifier_CodingScheme","RegionModifier_CodeValue","RegionModifier_CodeMeaning"
+0,"androecium",48,49,137,0,"","","","","","","","","","","","","","",""
+1,"gynoecium",14,172,64,0,"SCT","85756007","Tissue","SCT","85756007","Tissue","","","","","","","","",""
+2,"petals",67,170,139,0,"SCT","85756007","Tissue","SCT","85756007","Tissue","","","","","","","","",""
+3,"sepals",249,199,79,0,"SCT","85756007","Tissue","SCT","85756007","Tissue","","","","","","","","",""
+4,"ovary",115,224,114,0,"SCT","85756007","Tissue","SCT","85756007","Tissue","","","","","","","","",""
+5,"whole_flower",249,65,20,0,"SCT","85756007","Tissue","SCT","85756007","Tissue","","","","","","","","",""
+6,"anthers",248,150,30,0,"SCT","85756007","Tissue","SCT","85756007","Tissue","","","","","","","","",""
